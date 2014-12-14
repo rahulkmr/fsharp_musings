@@ -1,0 +1,5 @@
+/home/rahul/musings/fs/random/random/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/rahul/musings/fs/random/random/bin/Debug/random.exe.mdb
+/home/rahul/musings/fs/random/random/bin/Debug/random.exe
+/home/rahul/musings/fs/random/random/obj/x86/Debug/random.exe
+/home/rahul/musings/fs/random/random/obj/x86/Debug/random.exe.mdb
